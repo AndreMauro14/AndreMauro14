@@ -25,7 +25,5 @@
 - Email: *andremauro87@gmail.com*
 - LinkedIn: *https://www.linkedin.com/in/andr%C3%A9-mauro-856311345*
 
-- **Back-end:**  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
