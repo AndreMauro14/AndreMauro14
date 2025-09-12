@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o André Mauro
 
-<!--
-**AndreMauro14/AndreMauro14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou universitário no curso de **Sistemas para Internet** pela **UNICAP (Embarque Digital)**.  
+💻 Atualmente estudando **Java**, **POO** e conceitos de programação.  
+🚀 Interessado em desenvolvimento de sistemas, back-end e boas práticas de código.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas que estou aprendendo
+- Java ☕
+- Git & GitHub
+- HTML & CSS
+- Conceitos de Programação Orientada a Objetos (POO)
+
+---
+
+## 📈 Objetivos
+- Melhorar minhas habilidades em **desenvolvimento back-end**  
+- Criar projetos práticos para consolidar o aprendizado  
+- Compartilhar minha evolução aqui no GitHub 🚀  
+
+---
+
+## 📫 Onde me encontrar
+- Email: *andremauro87@gmail.com*
+- LinkedIn: *https://www.linkedin.com/in/andr%C3%A9-mauro-856311345*
+
+
