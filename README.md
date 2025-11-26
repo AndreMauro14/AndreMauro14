@@ -1,17 +1,17 @@
 # 👋 Olá, eu sou o André Mauro
 
 🎓 Sou universitário no curso de **Sistemas para Internet** pela **UNICAP (Embarque Digital)**.  
-💻 Atualmente estudando **Java**, **MySQL** e conceitos de programação.  
+💻 Atualmente estudando **SpringBoot**, **MySQL**, **JPA/Hibernate**.  
 🚀 Interessado em desenvolvimento de sistemas, back-end e boas práticas de código.  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas que estou aprendendo
-- Java ☕
+- Java SpringBoot ☕
 - MySQL
+- JPA/Hibernate
 - Git & GitHub
 - HTML & CSS
-- Conceitos de Programação Orientada a Objetos (POO)
 
 ---
 
