@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas que estou aprendendo
 - Java SpringBoot/ JPA/Hibernate
-- Python/ Pandas
+- Python/Pandas
 - MySQL
 - Git & GitHub
 - HTML & CSS
