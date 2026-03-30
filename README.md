@@ -1,30 +1,57 @@
-# 👋 Olá, eu sou o André Mauro
-
-🎓 Sou universitário no curso de **Sistemas para Internet** pela **UNICAP (Embarque Digital)**.  
-💻 Atualmente estudando **SpringBoot**, **MySQL**, **JPA/Hibernate**.  
-🚀 Interessado em desenvolvimento de sistemas, back-end e boas práticas de código.  
-
+<div align="center">
+ 
+<img src="https://avatars.githubusercontent.com/AndreMauro14" width="100" style="border-radius: 50%;" />
+ 
+# André Mauro
+ 
+**Back-end Developer** · Sistemas para Internet @ UNICAP
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-André%20Mauro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-mauro-856311345/)
+[![GitHub](https://img.shields.io/badge/GitHub-AndreMauro14-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AndreMauro14)
+[![Embarque Digital](https://img.shields.io/badge/Bolsista-Embarque%20Digital-0C447C?style=flat-square&logoColor=white)](https://github.com/AndreMauro14)
+ 
+</div>
+ 
 ---
-
-## 🛠️ Tecnologias e Ferramentas que estou aprendendo
-- Java SpringBoot/ JPA/Hibernate
-- Python/Pandas
-- MySQL
-- Git & GitHub
-- HTML & CSS
-
+ 
+## Sobre mim
+ 
+Back-end developer focado em sistemas confiáveis e escaláveis. Trabalho próximo à infraestrutura — APIs, bancos de dados e containers que funcionam de verdade em produção.
+ 
 ---
-
-## 📈 Objetivos
-- Melhorar minhas habilidades em **desenvolvimento back-end**  
-- Criar projetos práticos para consolidar o aprendizado  
-- Compartilhar minha evolução aqui no GitHub 🚀  
-
+ 
+## Tech Stack
+ 
+![Python](https://img.shields.io/badge/Python-0C1929?style=for-the-badge&logo=python&logoColor=85B7EB)
+![Java](https://img.shields.io/badge/Java-0C1929?style=for-the-badge&logo=openjdk&logoColor=85B7EB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0C1929?style=for-the-badge&logo=typescript&logoColor=85B7EB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C1929?style=for-the-badge&logo=postgresql&logoColor=85B7EB)
+![Docker](https://img.shields.io/badge/Docker-0C1929?style=for-the-badge&logo=docker&logoColor=85B7EB)
+![RPA](https://img.shields.io/badge/RPA-0C1929?style=for-the-badge&logoColor=85B7EB)
+ 
 ---
-
-## 📫 Onde me encontrar
-- Email: *andremauro87@gmail.com*
-- LinkedIn: *https://www.linkedin.com/in/andr%C3%A9-mauro-856311345*
-
-
-
+ 
+## Formação
+ 
+**Sistemas para Internet**  
+Universidade Católica de Pernambuco — UNICAP  
+🏅 Bolsista Embarque Digital
+ 
+---
+ 
+## Estatísticas
+ 
+<div align="center">
+ 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AndreMauro14&show_icons=true&hide_border=true&bg_color=080C12&title_color=378ADD&icon_color=378ADD&text_color=85B7EB" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMauro14&layout=compact&hide_border=true&bg_color=080C12&title_color=378ADD&text_color=85B7EB" />
+ 
+</div>
+ 
+---
+ 
+## Contato
+ 
+- 💼 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-mauro-856311345/)
+- 🐙 [GitHub](https://github.com/AndreMauro14)
+ 
