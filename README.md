@@ -1,64 +1,80 @@
 <div align="center">
 
-# André Mauro
+<h1>👨‍💻 André Mauro</h1>
 
-### Back-end Developer · Sistemas para Internet @ UNICAP
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=435&lines=Back-end+Developer;Sistemas+para+Internet+%40+UNICAP;Bolsista+Embarque+Digital" alt="Typing SVG" />
+</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-André%20Mauro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-mauro-856311345/)
-[![GitHub](https://img.shields.io/badge/GitHub-AndreMauro14-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AndreMauro14)
-[![Embarque Digital](https://img.shields.io/badge/Bolsista-Embarque%20Digital-0C447C?style=flat-square&logoColor=white)](https://github.com/AndreMauro14)
+<a href="https://www.linkedin.com/in/andr%C3%A9-mauro-856311345/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/AndreMauro14">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Embarque%20Digital-0C447C?style=for-the-badge&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
-### 👤 Sobre mim
+## 👤 Sobre mim
 
-Back-end developer focado em sistemas confiáveis e escaláveis. Trabalho próximo à infraestrutura — APIs, bancos de dados e containers que funcionam de verdade em produção.
+> Back-end developer focado em sistemas confiáveis e escaláveis. Trabalho próximo à infraestrutura — APIs, bancos de dados e containers que funcionam de verdade em produção.
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4A90D9)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=coffeescript&logoColor=4A90D9)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=4A90D9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4A90D9)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=4A90D9)
-![RPA](https://img.shields.io/badge/RPA-0d1117?style=for-the-badge&logo=robotframework&logoColor=4A90D9)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/RPA-0d1117?style=for-the-badge&logo=robotframework&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
-### 🎓 Formação
+## 🎓 Formação
 
-**Sistemas para Internet**  
-Universidade Católica de Pernambuco — UNICAP  
-🏅 Bolsista Embarque Digital
+| | |
+|---|---|
+| 📘 **Curso** | Sistemas para Internet |
+| 🏛️ **Instituição** | Universidade Católica de Pernambuco — UNICAP |
+| 🏅 **Bolsa** | Embarque Digital |
 
----
+<br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreMauro14&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=6A9FBF&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMauro14&layout=compact&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=6A9FBF&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreMauro14&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=6A9FBF&cache_seconds=1800"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMauro14&layout=compact&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=6A9FBF&cache_seconds=1800"/>
 
 </div>
 
----
+<br/>
 
-### 📬 Contato
+## 📬 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-mauro-856311345/)
+<a href="https://www.linkedin.com/in/andr%C3%A9-mauro-856311345/">
+  <img src="https://img.shields.io/badge/Fala%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90D9&height=80&section=footer"/>
 </div>
