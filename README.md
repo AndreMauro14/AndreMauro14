@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👨‍💻 André Mauro</h1>
+<h1>André Mauro</h1>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=435&lines=Back-end+Developer;Sistemas+para+Internet+%40+UNICAP;Bolsista+Embarque+Digital" alt="Typing SVG" />
@@ -31,7 +31,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -55,9 +55,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreMauro14&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=6A9FBF&cache_seconds=1800"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMauro14&layout=compact&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=6A9FBF&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=AndreMauro14&theme=dark&hide_border=true&background=0d1117&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=6A9FBF&dates=6A9FBF&currStreakNum=white&sideNums=white" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreMauro14&bg_color=0d1117&color=4A90D9&line=4A90D9&point=white&hide_border=true" />
 
 </div>
 
